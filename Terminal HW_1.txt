@@ -2,7 +2,7 @@
 2) Создать папку : mkdir dz 
 3) Зайти в папку : cd dz 
 4) Создать 3 папки : mkdir q1 q2 q3
-5) Зайти в любоую папку :  cd q1
+5) Зайти в любую папку :  cd q1
 6) Создать 5 файлов (3 txt, 2 json) : touch w1.txt ; touch w2.txt ; touch w3.txt ; touch a1.json ; touch a2.json  
 7) Создать 3 папки : mkdir s1 ; mkdir s2 ; mkdir s3
 8. Вывести список содержимого папки : ls - la
